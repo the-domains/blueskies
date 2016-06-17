@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BlueSkies]]></title>
+        <description><![CDATA[BlueSkies]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 01:10:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Highlights-Brands]]></title>
+            <description><![CDATA[<article><h1>Highlights-Brands</h1><p>ACCOMPLISHMENTS & HIGHLIGHTS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07e947fd8eb12590331b300cfd2f76d47a579690.jpg"></article>]]></description>
+            <link>undefinedhighlights-brands/index.html</link>
+            <guid isPermaLink="false">73087797-4d6a-4a46-83aa-a1523ab80b0f</guid>
+            <pubDate>Fri, 17 Jun 2016 01:10:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
