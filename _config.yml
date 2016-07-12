@@ -1,6 +1,6 @@
 name: BlueSkies
 favicon: null
-layout_spectrum: 0.5327756197657436
+layout_spectrum: 0.32916
 typography_spectrum: 0.27952
 title: Explorations on Life!
 cta:
@@ -24,6 +24,6 @@ color:
     - '#0b3273'
   brandStrength: 0.8125
   lightness: 0.5625
-  saturation: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.7557592622470111
 purpose: []
